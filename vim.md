@@ -26,6 +26,8 @@ Using a plugin to delegate the checking to a separate tmux/terminal pane. Among 
 
 ### Debugging
 
+All of the plugins basically allow you to set and clear breakpoints from vim buffer and then the debugger is fired.
+
 #### VimPDB
 
 {% embed url="https://github.com/gotcha/vimpdb" %}
@@ -41,4 +43,10 @@ Did not try it since it does not support Python 3.0 or higher.
 {% embed url="https://github.com/SkyLeach/pudb.vim" %}
 
 Did not have any luck firing it in vim8, seems only NeoVim is supported.
+
+#### Vdebug
+
+{% embed url="https://github.com/vim-vdebug/vdebug" %}
+
+Requirement is to install third party software from Komodo, I'd rather find something without such requirements.
 
