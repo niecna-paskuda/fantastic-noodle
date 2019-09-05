@@ -103,5 +103,13 @@ Starting it, similarly to PDB:
 * shell: `pudb3 my-script.py` or`python3 -m pudb somescript.py`
 * possibility to control debugger from a separate terminal as well as remote debugging \(telnet\).
 
+Using it: [a screencast with a pudb session](https://vimeo.com/5255125).
+
 Pudb is nice to work with, having a friendlier interface than pdb, displaying the source file and location by default and in consequence letting to set breakpoints in a quite comfortable manner. It would be nice to be able to do everything in the UI by vim motions.
+
+### IPDB
+
+{% embed url="https://pypi.org/project/ipdb/" %}
+
+
 
