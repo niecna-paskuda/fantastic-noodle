@@ -71,11 +71,11 @@ _PEP_ stands for a _Python Enhancement Proposal_. [PEP8](https://www.python.org/
       <td style="text-align:left">optional static type checker</td>
     </tr>
   </tbody>
-</table>On integrations with vim see here.
+</table>On integrations with vim see [here](https://notes.ugabuga.eu/vim#syntax-linters-checkers).
 
 ## Debugging
 
-On integrations with vim see here.
+Short listing on debugging tools I tried to use. On integrations with vim see [here](https://notes.ugabuga.eu/vim#debugging).
 
 ### PDB
 
