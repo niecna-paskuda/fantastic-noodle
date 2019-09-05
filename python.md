@@ -13,6 +13,7 @@ _PEP_ stands for a _Python Enhancement Proposal_. [PEP8](https://www.python.org/
     <tr>
       <th style="text-align:left">tool</th>
       <th style="text-align:left">what it does</th>
+      <th style="text-align:left">played around</th>
     </tr>
   </thead>
   <tbody>
@@ -29,6 +30,7 @@ _PEP_ stands for a _Python Enhancement Proposal_. [PEP8](https://www.python.org/
           <li>recommends suggestions about refactors.</li>
         </ul>
       </td>
+      <td style="text-align:left"></td>
     </tr>
     <tr>
       <td style="text-align:left"><a href="https://pypi.org/project/pyflakes/">pyflakes</a>
@@ -43,6 +45,7 @@ _PEP_ stands for a _Python Enhancement Proposal_. [PEP8](https://www.python.org/
           <li>&#x2753; code smells detection</li>
         </ul>
       </td>
+      <td style="text-align:left"></td>
     </tr>
     <tr>
       <td style="text-align:left"><a href="https://pypi.org/project/flake8/">Flake8</a>
@@ -59,16 +62,19 @@ _PEP_ stands for a _Python Enhancement Proposal_. [PEP8](https://www.python.org/
           </li>
         </ul>
       </td>
+      <td style="text-align:left"></td>
     </tr>
     <tr>
       <td style="text-align:left"><a href="https://github.com/hhatto/autopep8">autopep8</a>
       </td>
       <td style="text-align:left">uses pycodestyle to automatically conform to PEP8.</td>
+      <td style="text-align:left"></td>
     </tr>
     <tr>
       <td style="text-align:left"><a href="https://github.com/python/mypy">mypy</a>
       </td>
       <td style="text-align:left">optional static type checker</td>
+      <td style="text-align:left"></td>
     </tr>
   </tbody>
 </table>On integrations with vim see [here](https://notes.ugabuga.eu/vim#syntax-linters-checkers).
