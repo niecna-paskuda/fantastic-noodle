@@ -24,3 +24,9 @@ Using a plugin to automatically fire tools and display errors inside the editor 
 
 Using a plugin to delegate the checking to a separate tmux/terminal pane. Among others [vimux](https://github.com/benmills/vimux) could be considered.
 
+### Debugging
+
+#### VimPDB
+
+[https://github.com/gotcha/vimpdb](https://github.com/gotcha/vimpdb)
+

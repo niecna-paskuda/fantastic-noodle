@@ -71,4 +71,31 @@ _PEP_ stands for a _Python Enhancement Proposal_. [PEP8](https://www.python.org/
       <td style="text-align:left">optional static type checker</td>
     </tr>
   </tbody>
-</table>
+</table>On integrations with vim see here.
+
+## Debugging
+
+On integrations with vim see here.
+
+### PDB
+
+{% embed url="https://docs.python.org/3/library/pdb.html" %}
+
+Starting it:
+
+* python console: `import pdb; pdb.run('afunction()')`
+* shell: `python3 -m pdb somescript.py`
+* from code: `import pdb; pdb.set_trace()`
+
+Using it: [a simple session with pdb](https://realpython.com/python-debugging-pdb/).
+
+Pdb itself is not inviting to use, the presentation without any color makes the lines blend into one another.
+
+❓ Does it have any limitation when it comes to debugging frameworks \(and code involving browser requests\)?
+
+### PUDB
+
+{% embed url="https://documen.tician.de/pudb/" %}
+
+
+
