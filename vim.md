@@ -28,5 +28,9 @@ Using a plugin to delegate the checking to a separate tmux/terminal pane. Among 
 
 #### VimPDB
 
-[https://github.com/gotcha/vimpdb](https://github.com/gotcha/vimpdb)
+{% embed url="https://github.com/gotcha/vimpdb" %}
+
+Did not try it since it does not support Python 3.0 or higher.
+
+
 

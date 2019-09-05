@@ -97,5 +97,11 @@ Pdb itself is not inviting to use, the presentation without any color makes the 
 
 {% embed url="https://documen.tician.de/pudb/" %}
 
+Starting it, similarly to PDB:
 
+* python console or code: `import pudb; pu.db`
+* shell: `pudb3 my-script.py` or`python3 -m pudb somescript.py`
+* possibility to control debugger from a separate terminal as well as remote debugging \(telnet\).
+
+Pudb is nice to work with, having a friendlier interface than pdb, displaying the source file and location by default and in consequence letting to set breakpoints in a quite comfortable manner. It would be nice to be able to do everything in the UI by vim motions.
 
