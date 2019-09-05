@@ -77,6 +77,13 @@ _PEP_ stands for a _Python Enhancement Proposal_. [PEP8](https://www.python.org/
 
 Short listing on debugging tools I tried to use. On integrations with vim see [here](https://notes.ugabuga.eu/vim#debugging).
 
+{% hint style="warning" %}
+Do any of the following have any limitation when it comes to debugging:
+
+* frameworks and code involving browser requests,
+* tests.
+{% endhint %}
+
 ### PDB
 
 {% embed url="https://docs.python.org/3/library/pdb.html" %}
@@ -91,7 +98,13 @@ Using it: [a simple session with pdb](https://realpython.com/python-debugging-pd
 
 Pdb itself is not inviting to use, the presentation without any color makes the lines blend into one another.
 
-❓ Does it have any limitation when it comes to debugging frameworks \(and code involving browser requests\)?
+### PDBPP
+
+{% embed url="https://pypi.org/project/pdbpp/" %}
+
+
+
+
 
 ### PUDB
 
@@ -105,7 +118,7 @@ Starting it, similarly to PDB:
 
 Using it: [a screencast with a pudb session](https://vimeo.com/5255125).
 
-Pudb is nice to work with, having a friendlier interface than pdb, displaying the source file and location by default and in consequence letting to set breakpoints in a quite comfortable manner. It would be nice to be able to do everything in the UI by vim motions.
+Pudb is nice to work with, having a friendlier interface than pdb, displaying the source file and location by default and in consequence letting to set breakpoints in a quite comfortable manner. It uses [Urwid library](http://urwid.org/) for the interface, hence the U in the name. It would be nice to be able to do everything in the UI by vim motions.
 
 ### IPDB
 
