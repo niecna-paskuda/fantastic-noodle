@@ -108,9 +108,9 @@ Pdb itself is not inviting to use, the presentation without any color makes the 
 
 {% embed url="https://pypi.org/project/pdbpp/" %}
 
+A PDB on steroids – it provides syntax highlighting which is easier on the eyes and tab completion among other things. After installing through pip it is used as if it were PDB \(it is a drop-in replacement after all\).
 
-
-
+`import pdb; pdb.pdb.set_trace()` to get to the old pdb. 
 
 ### PUDB
 

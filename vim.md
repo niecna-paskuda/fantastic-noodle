@@ -32,5 +32,13 @@ Using a plugin to delegate the checking to a separate tmux/terminal pane. Among 
 
 Did not try it since it does not support Python 3.0 or higher.
 
+#### vim-pudb
 
+{% embed url="https://github.com/KangOl/vim-pudb" %}
+
+#### pudb.vim
+
+{% embed url="https://github.com/SkyLeach/pudb.vim" %}
+
+Did not have any luck firing it in vim8, seems only NeoVim is supported.
 
