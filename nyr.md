@@ -37,5 +37,8 @@ description: Not yet remembered (or gotten used to).
 * [ ] `leader ,` rename a window
 * [ ] [https://gist.github.com/andreyvit/2921703](https://gist.github.com/andreyvit/2921703)
 
+## vim
 
+* [ ] [http://vimcasts.org/episodes/fugitive-vim-resolving-merge-conflicts-with-vimdiff/](http://vimcasts.org/episodes/fugitive-vim-resolving-merge-conflicts-with-vimdiff/)
+* [ ] [https://vim.works/2019/04/22/marks/](https://vim.works/2019/04/22/marks/)
 
