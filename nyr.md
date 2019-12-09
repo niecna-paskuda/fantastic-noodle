@@ -8,7 +8,7 @@ description: Not yet remembered (or gotten used to).
 
 * [ ] delete word right `esc d`
 * [ ] delete word left `ctrl w`
-* [ ] delete to the end of line `ctrl k`
+* [x] delete to the end of line `ctrl k`
 * [ ] delete to the beg of line `ctrl u`
 
 ## redis
