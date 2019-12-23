@@ -13,7 +13,7 @@ Below I will try to sum-up what online tools I have found and pick the best one 
 
 ### Requirements
 
-Before I dive into the multitude of possibilities which the online tools certainly offer, these are a must-haves:
+Before I dive into the multitude of possibilities which the online tools certainly offer, these are a ~~must-haves~~ nice to haves:
 
 * ability to `tag` the cards – so I can create custom repeat exercises,
 * ability to assign more than one `meaning` e.g. to be able to upload a hand-written Cyrillic \(most probably an image\), as well as a font one, as well as assign a translation,
