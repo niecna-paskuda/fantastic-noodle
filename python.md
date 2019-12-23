@@ -130,15 +130,5 @@ Pudb is nice to work with, having a friendlier interface than pdb, displaying th
 
 {% embed url="https://pypi.org/project/ipdb/" %}
 
-{% embed url="http://keflavich.github.io/blog/my-python-ipython-vim-debugging-workflow.html" %}
-
-## Testing
-
-### Pytest
-
-
-
-## Frameworks
-
-### Flask
+[http://keflavich.github.io/blog/my-python-ipython-vim-debugging-workflow.html](http://keflavich.github.io/blog/my-python-ipython-vim-debugging-workflow.html)
 
