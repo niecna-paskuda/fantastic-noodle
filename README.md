@@ -2,5 +2,5 @@
 description: 'TILs, cheatsheets & wiki'
 ---
 
-# Notes
+# About
 

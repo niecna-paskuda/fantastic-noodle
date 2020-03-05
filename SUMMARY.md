@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Notes](README.md)
+* [About](README.md)
 * [Vim](vim.md)
 * [Python](python.md)
 * [NYR](nyr.md)
