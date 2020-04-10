@@ -6,6 +6,5 @@
 * [Diagrams](diagrams.md)
 * [Docker](docker.md)
 * [Makefiles](makefiles.md)
-* [Flashcards](flashcards.md)
 * [NYR](nyr.md)
 
