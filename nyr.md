@@ -33,7 +33,7 @@ description: Not yet remembered (or gotten used to).
 
 ## tmux
 
-* [ ] `movew -r` renumber windows
+* [x] `movew -r` renumber windows
 * [ ] `leader ,` rename a window
 * [ ] [https://gist.github.com/andreyvit/2921703](https://gist.github.com/andreyvit/2921703)
 
