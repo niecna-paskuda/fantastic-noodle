@@ -1,10 +1,19 @@
 # Table of contents
 
 * [About](README.md)
-* [Vim](vim.md)
-* [Python](python.md)
-* [Diagrams](diagrams.md)
-* [Docker](docker.md)
-* [Makefiles](makefiles.md)
 * [NYR](nyr.md)
+
+## per language
+
+* [Python](per-language/python.md)
+
+## cmdlinelike
+
+* [Makefiles](cmdlinelike/makefiles.md)
+* [Vim](cmdlinelike/vim.md)
+
+## various
+
+* [Diagrams](various/diagrams.md)
+* [Docker](various/docker.md)
 
