@@ -3,9 +3,10 @@
 * [About](README.md)
 * [NYR](nyr.md)
 
-## per language
+## per lang
 
-* [Python](per-language/python.md)
+* [JS](per-lang/js.md)
+* [Python](per-lang/python.md)
 
 ## cmdlinelike
 
