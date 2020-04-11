@@ -81,5 +81,12 @@ The tools of choice:
 There are other LSPs servers available, e.g. [Microsoft python LSP](https://github.com/Microsoft/python-language-server)
 {% endhint %}
 
+## Javascript
+
+### Syntax, linters, checkers
+
+* [ale](https://github.com/dense-analysis/ale)
+* [https://github.com/microsoft/TypeScript](https://github.com/microsoft/TypeScript) + [https://github.com/theia-ide/typescript-language-server](https://github.com/theia-ide/typescript-language-server)
+
 
 
