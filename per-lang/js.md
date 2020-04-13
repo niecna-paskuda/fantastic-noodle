@@ -1,5 +1,5 @@
 ---
-description: RevisingJavaScript
+description: Revising JavaScript
 ---
 
 # JS
@@ -20,7 +20,14 @@ description: RevisingJavaScript
 
 ### Online courses
 
-* [ ] [https://app.pluralsight.com/paths/skill/javascript-core-language](https://app.pluralsight.com/paths/skill/javascript-core-language)
+* [x] [https://app.pluralsight.com/paths/skill/javascript-core-language](https://app.pluralsight.com/paths/skill/javascript-core-language)
 
+### Other
 
+* [ ] [http://es6-features.org/](http://es6-features.org/#Constants)
 
+## Q&As
+
+questions and answers while reading
+
+* 
