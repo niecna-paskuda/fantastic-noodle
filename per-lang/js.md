@@ -30,4 +30,14 @@ description: Revising JavaScript
 
 questions and answers while reading
 
-* 
+## Notes
+
+### vars vs lets
+
+* `var` – function scoped; no error when tries to access before initialisation,
+* `let` – block scoped; cannot be used if unknown, results in a `ReferenceError`
+* `const` =&gt; like `var`
+* function identifier =&gt; like `var`
+* function argument identifier =&gt; like var? why not like let? even though the argument IS function scoped but is a function not a block?
+* `try catch err` identifier =&gt; like `let`
+
