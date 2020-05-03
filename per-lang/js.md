@@ -43,5 +43,18 @@ questions and answers while reading
 
 ### strict mode
 
-anything other than the comment/whitespaces makes the strict useless `use strict`
+* gives errors before the script is run e.g. 
 
+  `SyntaxError: Duplicate parameter name not allowed in this context  
+       at wrapSafe (internal/modules/cjs/loader.js:1063:16)     
+       at Module._compile (internal/modules/cjs/loader.js:1111:27)`
+
+* anything other than the comment/whitespaces makes the strict useless `use strict`
+
+### comparing
+
+* `===` 
+  * identity equality 
+  * no type coercion
+  * do not use to compare NaN meaning: `NaN === NaN => false` use `Number.isNaN` or more strict `Object.is()`
+* 
