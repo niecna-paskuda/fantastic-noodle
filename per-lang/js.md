@@ -53,8 +53,18 @@ questions and answers while reading
 
 ### comparing
 
+JS doesn't provide structural equality comparison because it's almost intractable to handle all the corner cases.
+
 * `===` 
-  * identity equality 
+  * identity equality , not structural equality
   * no type coercion
   * do not use to compare NaN meaning: `NaN === NaN => false` use `Number.isNaN` or more strict `Object.is()`
+* `==`
+  * type coercion \(also considers type of the compared values\)
+  * coerces to numeric type
+* `< > <= >=`
+  * numeric comparisons, unless both sides are strings already, alphabetical comparison used then `"10" < "9" => true` 
+
+### classes
+
 * 
