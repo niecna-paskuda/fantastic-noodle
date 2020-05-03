@@ -41,3 +41,7 @@ questions and answers while reading
 * function argument identifier =&gt; like var? why not like let? even though the argument IS function scoped but is a function not a block?
 * `try catch err` identifier =&gt; like `let`
 
+### strict mode
+
+anything other than the comment/whitespaces makes the strict useless `use strict`
+
