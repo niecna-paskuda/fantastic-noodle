@@ -49,7 +49,7 @@ questions and answers while reading
        at wrapSafe (internal/modules/cjs/loader.js:1063:16)     
        at Module._compile (internal/modules/cjs/loader.js:1111:27)`
 
-* anything other than the comment/whitespaces makes the strict useless `use strict`
+* anything other than the comment/whitespaces makes the strict useless, e.g. a `;`
 
 ### comparing
 
@@ -67,4 +67,22 @@ JS doesn't provide structural equality comparison because it's almost intractabl
 
 ### classes
 
+* keywords: `class`, `extends`, `constructor`, `super`, `this`, `new`
+* everything is public \(?\)
+
+### modules
+
+* wrapping function – referred to as well as `module factories`
+* explicitly create the object and thus expose some methods as public
+
+### ES modules
+
+* keywords:  `export`, `import`, 
+* file-based, no wrapping function
+* singletons – each `import` gives reference
+
+### Iteration
+
+* iterator implements: `next` method which returns an object with `value` and `done` properties
+* iterable allows to create an iterator instance, by implementing the `Symbol.iterator()` and simply returning itself – single iterable can be consumed more than once, each time a new iterator instance is created
 * 
