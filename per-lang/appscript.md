@@ -5,7 +5,7 @@
 
 ### Custom functions
 
-* [JSDoc](https://jsdoc.app/) to have a prompt shown,
+* [JSDoc](https://jsdoc.app/) to have a prompt shown, like in built-in functions,
 * faster to have functions working on arguments of cell range than single cells \(one call to the js api better than many\),
 * cannot use built-in functions in the script. It is possible to [`setFormula`](https://developers.google.com/apps-script/reference/spreadsheet/range#setformulaformula) to have a generated arguments inserted, but if that is the case the function cannot be invoked in the same cell with `=` . It would have to be called via e.g. a trigger,
 * sharing the function:
