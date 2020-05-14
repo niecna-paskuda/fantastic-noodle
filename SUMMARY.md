@@ -7,6 +7,7 @@
 
 * [JS](per-lang/js.md)
 * [Python](per-lang/python.md)
+* [AppScript](per-lang/appscript.md)
 
 ## cmdlinelike
 
