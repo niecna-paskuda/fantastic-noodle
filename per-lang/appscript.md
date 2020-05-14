@@ -13,7 +13,7 @@
   * publishing it \(after verification\) as a [add-on](https://developers.google.com/gsuite/add-ons/overview),
   * copy the sheet – the function will be copied with it, \(are the future changes visible as well – is the function linked or copied?\)
   * open the script editor and copy-paste in another sheet.
-* have a list of past invocations, with logging via Stacktrace.
+* have a list of past invocations, with logging via stacktrace.
 
 
 
