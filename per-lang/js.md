@@ -34,8 +34,9 @@ questions and answers while reading
 
 ### vars vs lets
 
-* `var` – function scoped; no error when tries to access before initialisation,
-* `let` – block scoped; cannot be used if unknown, results in a `ReferenceError`
+* `var` – function scoped \(even if inside a block\); no error when tries to access before initialisation,
+* `var` – hoisted, but only declaration, not initialisation!
+* `let` – block scoped; cannot be used if unknown \(temporal dead zone\), results in a `ReferenceError`
 * `const` =&gt; like `var`
 * function identifier =&gt; like `var`
 * function argument identifier =&gt; like var? why not like let? even though the argument IS function scoped but is a function not a block?
