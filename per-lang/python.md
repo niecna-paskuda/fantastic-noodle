@@ -77,7 +77,9 @@ _PEP_ stands for a _Python Enhancement Proposal_. [PEP8](https://www.python.org/
       <td style="text-align:left"></td>
     </tr>
   </tbody>
-</table>On integrations with vim see [here](https://notes.ugabuga.eu/vim#syntax-linters-checkers).
+</table>
+
+On integrations with vim see [here](https://notes.ugabuga.eu/vim#syntax-linters-checkers).
 
 ## Debugging
 

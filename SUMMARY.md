@@ -13,6 +13,7 @@
 
 * [Makefiles](cmdlinelike/makefiles.md)
 * [Vim](cmdlinelike/vim.md)
+* [regexp](cmdlinelike/regexp.md)
 
 ## various
 
