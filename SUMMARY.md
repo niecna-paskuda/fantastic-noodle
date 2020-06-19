@@ -14,6 +14,7 @@
 * [Makefiles](cmdlinelike/makefiles.md)
 * [Vim](cmdlinelike/vim.md)
 * [regexp](cmdlinelike/regexp.md)
+* [gti](cmdlinelike/gti.md)
 
 ## various
 
