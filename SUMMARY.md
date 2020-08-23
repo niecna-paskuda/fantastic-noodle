@@ -21,3 +21,7 @@
 * [Diagrams](various/diagrams.md)
 * [Docker](various/docker.md)
 
+## videofun
+
+* [various](videofun/various.md)
+
