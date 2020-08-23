@@ -25,3 +25,7 @@
 
 * [various](videofun/various.md)
 
+---
+
+* [Google Maps](google-maps.md)
+
