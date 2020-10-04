@@ -42,3 +42,7 @@ description: Not yet remembered (or gotten used to).
 * [ ] [http://vimcasts.org/episodes/fugitive-vim-resolving-merge-conflicts-with-vimdiff/](http://vimcasts.org/episodes/fugitive-vim-resolving-merge-conflicts-with-vimdiff/)
 * [ ] [https://vim.works/2019/04/22/marks/](https://vim.works/2019/04/22/marks/)
 
+## video editing
+
+[https://documents.blackmagicdesign.com/UserManuals/DaVinci-Resolve-16-Beginners-Guide.pdf](https://documents.blackmagicdesign.com/UserManuals/DaVinci-Resolve-16-Beginners-Guide.pdf)
+
