@@ -15,6 +15,7 @@
 * [Vim](cmdlinelike/vim.md)
 * [regexp](cmdlinelike/regexp.md)
 * [git](cmdlinelike/gti.md)
+* [tmux](cmdlinelike/tmux.md)
 
 ## various
 
